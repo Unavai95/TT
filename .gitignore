@@ -1,0 +1,29 @@
+# Python virtual environments
+*.venv/
+*.env/
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded files
+uploads/
+
+# Downloaded files
+downloads/
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other common development artifacts
+*.log
+*.tmp
+*.bak
